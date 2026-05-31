@@ -24,7 +24,7 @@ const customers = [
 customers.push({
     name: "Matthew Wilson",
     email: "matthew.wilson@email.com",
-    purchases: ["Phone", "Laptop"]
+    purchases: ["Phone", "Laptop, Charger"]
     });
 
 customers.shift();
