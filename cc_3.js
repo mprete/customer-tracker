@@ -13,6 +13,11 @@ const customers = [
         name: "Rachel Johnson",
         email: "Rachel.Johnson@email.com",
         purchases: ["Desk", "Desk Lamp", "Charger"]
+    },
+    {
+        name: "Anna Nesbitt",
+        email: "anna.nesbitt@email.com",
+        purchases: ["Phone", "Phone Case", "AirPods"]
     }
 ];
 
